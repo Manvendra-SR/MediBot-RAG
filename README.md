@@ -81,7 +81,6 @@ If you want to expand MediBot’s knowledge base:
 1. Add your documents to the **`Data/`** folder.  
 2. Run the embedding script to generate vectors and update FAISS:
 
-```
 python store_embedding.py
 ---
 This will update the faiss_index/ directory.
