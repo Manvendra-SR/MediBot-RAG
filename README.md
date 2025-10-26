@@ -97,6 +97,7 @@ The app will be available at:
 ---
 
 ## 📦 Project Structure
+```text
 MediBot/
 │
 ├── app.py                     # Flask backend (main entry)
@@ -109,5 +110,5 @@ MediBot/
 │   └── chat.html              # Frontend UI
 ├── requirements.txt
 └── .env
-
+```
 ---
