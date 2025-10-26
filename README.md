@@ -110,3 +110,5 @@ MediBot/
 │   └── chat.html              # Frontend UI
 ├── requirements.txt
 └── .env
+
+---
