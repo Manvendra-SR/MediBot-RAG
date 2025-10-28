@@ -47,8 +47,8 @@ It retrieves relevant medical context from a local knowledge base and generates 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/MediBot.git
-cd MediBot
+git clone https://github.com/Manvendra-SR/MediBot-RAG.git
+cd MediBot-RAG
 ```
 
 ---
